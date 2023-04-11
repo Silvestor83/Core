@@ -2,7 +2,7 @@ using UnityEngine;
 
 public class CoreService
 {
-    public string Text = "Minigames";
+    public string Text = "KTB";
 
     public void CreateEntity()
     {
